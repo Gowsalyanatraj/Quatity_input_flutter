@@ -34,6 +34,7 @@ class _QuantityInputSampleState extends State<QuantityInputSample> {
           Padding(
             padding: const EdgeInsets.only(left: 180),
             child: Container(
+              color: Colors.grey.shade100,
               height: 600,
               width: 1000,
               child: Padding(
